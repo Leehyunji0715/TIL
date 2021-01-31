@@ -1,4 +1,4 @@
-### [참고  영상, 보고 연습한 것!]([https://www.youtube.com/watch?v=kEW6f7Pilc4&t=1s](https://www.youtube.com/watch?v=kEW6f7Pilc4&t=1s)
+### [참고  영상, 보고 연습한 것!](https://www.youtube.com/watch?v=kEW6f7Pilc4&t=1s)
 
 # PDO 기본 구조
 
