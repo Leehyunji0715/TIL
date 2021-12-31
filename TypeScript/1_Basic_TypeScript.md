@@ -410,7 +410,7 @@ j.printName(); // work
 alert(j.name); //not work (private)
 ```
 
-
+ 
 ## 4. Getters and Setters
 
 Getter/Setter는 private한 데이터에 접근할 때 사용하기 유용한 패턴으로 여겨진다. 
